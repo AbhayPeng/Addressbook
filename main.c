@@ -1,11 +1,6 @@
 /*
 Documentation
-------------------------------------------------------------
-Name : Abhay P
-Student Id : 26018_134
-Batch Id : 26018D
-Start Date : 11/09/2026
-End Date : 19/09/2026
+-----------------------------------------------------------
 
 Description :The following functions are implemented in the Address Book project to manage contact information efficiently.
             The project provides options to create, search, edit, delete, sort, display and store contacts.
